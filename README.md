@@ -23,7 +23,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://user-images.githubusercontent.com/526959/217492971-30870526-7eee-4643-b127-54f78410a41c.png)
 
 ## 2004-2005:
-![image](https://user-images.githubusercontent.com/526959/217488322-f06ab441-bfa5-4f1e-8ae1-5d130000bebf.png)
+![image](https://user-images.githubusercontent.com/526959/225848574-34ae5cfa-26c9-4cf8-922b-b9ca58fe7b2a.png)
 
 ## 2003-2004:
 ![image](https://user-images.githubusercontent.com/526959/225845569-3328b202-f3e4-4209-b57a-2c7515bfbcaf.png)
