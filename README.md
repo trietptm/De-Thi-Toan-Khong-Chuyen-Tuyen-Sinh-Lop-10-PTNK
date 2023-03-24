@@ -20,7 +20,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://user-images.githubusercontent.com/526959/217497176-1a390c66-6dc9-4abf-b574-b7f33a3c6ae6.png)
 
 ## 2008-2009:
-![image](https://user-images.githubusercontent.com/526959/217493409-128ce74f-0816-428e-bb3a-2a4d67c1d1ee.png)
+![image](https://user-images.githubusercontent.com/526959/227446424-ba7a76fa-d929-4fc7-b604-75e9af83dc26.png)
 
 ## 2007-2008:
 ![image](https://user-images.githubusercontent.com/526959/226813724-7a3befe9-a0c2-4598-94b7-7dbdfb3310e9.png)
