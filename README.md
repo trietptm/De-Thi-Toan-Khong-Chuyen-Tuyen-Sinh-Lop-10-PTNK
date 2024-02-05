@@ -31,6 +31,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2003-2004:
 ![image](https://user-images.githubusercontent.com/526959/227068065-d024008f-337e-4584-a104-4379b68ab82d.png)
 ![image](https://gist.github.com/assets/526959/c50f1790-12bd-4d6c-874c-1264d83fb366)
+![image](https://gist.github.com/assets/526959/c50f1790-12bd-4d6c-874c-1264d83fb366.png)
 
 ![image](https://user-images.githubusercontent.com/526959/225845569-3328b202-f3e4-4209-b57a-2c7515bfbcaf.png)
 
