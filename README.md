@@ -11,6 +11,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/857a53b0-de9c-41b0-9b33-abcbc58b7a15)
 
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/ac9c75ed-a062-4693-9519-8bdc417f9384)
+
 ## 2013-2014:
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/13944f90-9aa1-48b7-b480-a692c0c9fe01)
 
