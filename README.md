@@ -26,6 +26,9 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://user-images.githubusercontent.com/526959/226813724-7a3befe9-a0c2-4598-94b7-7dbdfb3310e9.png)
 
 ## 2004-2005:
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/c5253baf-d7b1-4d7b-b2ca-a2452dadc5c7)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/f9bd8725-b24a-4d92-81ee-20d9b7b26df0)
+
 ![image](https://user-images.githubusercontent.com/526959/225848574-34ae5cfa-26c9-4cf8-922b-b9ca58fe7b2a.png)
 
 ## 2003-2004:
