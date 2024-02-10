@@ -12,6 +12,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2021-2022:
 
 ## 2020-2021:
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/ac9c0b58-4990-46ed-92eb-e90aac7f0ece)
+
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/2635593a-428f-4f7c-80e7-42b2a6af4780)
 
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/7e7b6b42-458e-4e6e-885d-72de588f409a)
