@@ -3,7 +3,7 @@
 * Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận: https://goo.gl/maps/CghSicAvrM6nnYJ8A hoặc đăng ký học lớp toán chuyên sáng chủ nhật với thầy Triết ở trung tâm [PTNK HUB](https://www.facebook.com/PTNKHUB) tại trường Phổ thông Năng khiếu cơ sở quận 5.
 
 ## 2023-2024:
-![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/c21b547f-8620-45a6-956e-86fc3104a0c0)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/fea890d1-c808-4d6b-ba16-dca24d9b0a82)
 
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/90676922-1eaa-4107-b207-8c6270fff47d)
 
