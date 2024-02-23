@@ -135,5 +135,36 @@
 
 ![image](https://user-images.githubusercontent.com/526959/224281634-2e5685cf-d5c2-44d6-9f73-77ab8a932a94.png)
 
-
+## CÁC CHUYÊN ĐỀ ÔN THI TUYỂN SINH TOÁN KHÔNG CHUYÊN PTNK:
+* Biến đổi đại số, phân tích đa thức thành nhân tử và ứng dụng
+  * Biến đổi đa thức
+  * Biến đổi phân thức
+  * Biến đổi căn thức
+    * Lượng liên hợp
+* Bất đẳng thức và ứng dụng trong đại số và các bài toán giải bằng cách lập phương trình, hệ phương trình (toán thực tế,...)
+  * Các phương pháp chứng minh bất đẳng thức
+* Phương trình bậc hai một ẩn số và định lý Viet
+* Hệ phương trình hai ẩn mẫu mực
+  * Hệ phương trình bậc nhất hai ẩn
+  * Hệ phương trình hai ẩn đối xứng loại 1
+  * Hệ phương trình hai ẩn đối xứng loại 2
+  * Hệ phương trình đồng bậc/đẳng cấp. 
+  * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
+* Hệ phương trình ba ẩn 
+* Hệ phương trình không mẫu mực
+* Bất phương trình và hệ bất phương trình
+* Quỹ tích (tập hợp điểm)
+* Định lý hình học và các phương pháp chứng minh
+  * Hình học tam giác, tứ giác
+    * Hệ thức lượng trong tam giác vuông
+    * Tỉ số lượng giác
+  * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
+    * Tiếp tuyến và đường tròn
+  * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
+  * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
+  * Chứng minh các điểm cùng thuộc một đường tròn (đồng viên)
+  * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
+  * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
+* Các bài toán hình học có nội dung tính toán
+* 
 
