@@ -1,6 +1,7 @@
 # De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK
 * Tuyển tập Đề Thi Toán Không Chuyên Tuyển Sinh Lớp 10 Chuyên Trường Phổ Thông Năng Khiếu (PTNK), Đại Học Quốc Gia TP.HCM Triết sử dụng cho các lớp toán nâng cao, toán chuyên PTNK, toán không chuyên PTNK cho các bạn học sinh lớp 7, 8 và lớp 9, tối 2-4-6, 3-5-7, thứ 7-CN hàng tuần.
 * Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận: https://goo.gl/maps/CghSicAvrM6nnYJ8A hoặc đăng ký học lớp toán chuyên sáng chủ nhật với thầy Triết ở trung tâm [PTNK HUB](https://www.facebook.com/PTNKHUB) tại trường Phổ thông Năng khiếu cơ sở quận 5.
+* Đáp án chính thức của trường PTNK: https://ptnk.edu.vn/tuyen-sinh-ptnk/de-thi-dap-an/
 
 ## 2023-2024:
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/fea890d1-c808-4d6b-ba16-dca24d9b0a82)
