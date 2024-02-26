@@ -16,6 +16,8 @@
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/8b65f569-45db-4bb3-a356-72071f4bde65)
 
 ## 2020-2021:
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/461cc73c-ac19-460a-9f45-f28b1acbb7f5)
+
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/ac9c0b58-4990-46ed-92eb-e90aac7f0ece)
 
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/2635593a-428f-4f7c-80e7-42b2a6af4780)
