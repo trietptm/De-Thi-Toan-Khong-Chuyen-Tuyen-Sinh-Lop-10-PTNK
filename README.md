@@ -39,8 +39,6 @@
 
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/7549136b-463b-447d-a613-80030bc42d72)
 
-![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/4145bf1c-c3c2-401b-b0ca-6c36b03739a7)
-
 ## 2017-2018:
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/ba30f6f0-6108-4966-8cb1-fa4bc708f66f)
 
