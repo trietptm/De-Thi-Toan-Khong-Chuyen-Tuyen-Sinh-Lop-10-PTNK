@@ -158,6 +158,7 @@
 * Bất đẳng thức và ứng dụng trong đại số và các bài toán giải bằng cách lập phương trình, hệ phương trình (toán thực tế,...)
   * Các phương pháp chứng minh bất đẳng thức
 * Phương trình bậc hai một ẩn số và định lý Viet
+  * Điều kiện có nghiệm của một phương trình bậc hai
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
   * Hệ phương trình hai ẩn đối xứng loại 1
