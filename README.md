@@ -183,3 +183,13 @@
 * Các bài toán hình học có nội dung tính toán
 * 
 
+## ĐÔI NÉT VỀ ĐỀ THI TOÁN KHÔNG CHUYÊN TRONG ĐỀ TUYỂN SINH VÀO LỚP 10 CỦA TRƯỜNG PTNK
+* https://www.facebook.com/HSGVNUHCM/posts/pfbid037czvrBJXAMXKRou7jC4tm3P5icjmZdjHsbAGFaXPMd6EkeaNvFHGzg6FhUhN9yBzl
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/2e68f78a-e6c0-4158-91be-5dc66fa1fe73)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/b4341de5-f001-4f41-95f0-d548fe1717e1)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/d004f077-330c-464a-a3e7-c2eb222aec69)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/b082a41a-eaed-4a88-9a86-6aea0a0e1602)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/3337d620-bc45-4623-8127-e45f6f5be9ad)
+![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/5f7f3a28-d656-448a-9ab0-a6f094ddfca8)
+
+
