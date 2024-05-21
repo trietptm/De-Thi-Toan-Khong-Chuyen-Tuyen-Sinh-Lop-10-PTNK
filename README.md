@@ -180,6 +180,7 @@
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
   * Hình học tam giác, tứ giác
+    * Tam giác đồng dạng
     * Hệ thức lượng trong tam giác vuông
     * Tỉ số lượng giác
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
@@ -190,6 +191,7 @@
   * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
   * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
 * Các bài toán hình học có nội dung tính toán
+* Giải toán bằng cách lập phương trình, hệ phương trình
 * 
 
 
