@@ -172,10 +172,15 @@
   * Biến đổi phân thức
   * Biến đổi căn thức
     * Lượng liên hợp
+  * Rút gọn biểu thức
+  * Tính giá trị của biểu thức hoặc biến số
 * Bất đẳng thức và ứng dụng trong đại số và các bài toán giải bằng cách lập phương trình, hệ phương trình (toán thực tế,...)
   * Các phương pháp chứng minh bất đẳng thức
+  * Bất đẳng thức và giải phương trình không mẫu mực
 * Phương trình bậc hai một ẩn số và định lý Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
+  * Phương trình quy về phương trình bậc hai
+* Giải phương trình
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
   * Hệ phương trình hai ẩn đối xứng loại 1
