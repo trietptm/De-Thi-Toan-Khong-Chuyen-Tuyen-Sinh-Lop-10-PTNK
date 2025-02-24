@@ -193,6 +193,10 @@
     * Tỉ số lượng giác
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
+    * Phương tích
+    * Đường thẳng Simson
+    * Đường thẳng đẳng giác (cặp đường đẳng giác), trục đối xứng và các kết quả liên quan
+    * Tứ giác điều hòa, đường đối trung và các kết quả liên quan
   * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
   * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
   * Chứng minh các điểm cùng thuộc một đường tròn (đồng viên)
