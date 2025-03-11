@@ -117,6 +117,8 @@
 
 ![image](https://user-images.githubusercontent.com/526959/226813724-7a3befe9-a0c2-4598-94b7-7dbdfb3310e9.png)
 
+![image](https://github.com/user-attachments/assets/f7730a33-b33c-44fd-8485-95c6df26f74a)
+
 ## 2006-2007:
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/353a4d0f-a1eb-49ad-9072-31484b48eb90)
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/4b84ef00-0f6b-44df-98e8-3379e7cd7e39)
