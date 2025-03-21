@@ -1,6 +1,10 @@
 
 # ĐỀ THỬ TOÁN KHÔNG CHUYÊN PTNK
 
+## 2019 LẦN 1:
+![image](https://github.com/user-attachments/assets/3beb9baf-76a2-4c90-a41b-307f6ceb268d)
+![image](https://github.com/user-attachments/assets/8e0d2509-0b93-46d1-a256-889c0ed71c23)
+
 ## 2018 LẦN 2:
 ![image](https://github.com/user-attachments/assets/99df0005-c6dd-4de8-b154-26478f81a7d5)
 
