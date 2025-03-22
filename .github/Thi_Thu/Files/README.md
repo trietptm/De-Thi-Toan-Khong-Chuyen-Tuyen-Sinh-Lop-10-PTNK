@@ -1,4 +1,9 @@
 
+## 2023 LẦN 1:
+![image](https://github.com/user-attachments/assets/e18bead2-657f-4dec-b9fe-4303edfb29d0)
+![image](https://github.com/user-attachments/assets/fb3d2863-ce41-49c3-8da3-37b46a7730fb)
+![image](https://github.com/user-attachments/assets/73a8552b-aba1-414e-96e6-803e27bce583)
+
 ## 2022 LẦN 2:
 ![image](https://github.com/user-attachments/assets/2219ecbd-f582-4b96-adaf-a727a2c06a3b)
 ![image](https://github.com/user-attachments/assets/43bfb17f-d217-4dba-a95c-27dd106c7366)
