@@ -2,6 +2,12 @@
 ## 2022 LẦN 1:
 ![image](https://github.com/user-attachments/assets/efc3e0ca-73a0-4ca3-8409-a86a2161cfe4)
 
+![image](https://github.com/user-attachments/assets/eb4030ab-34ed-446f-adab-67543ff70c4e)
+![image](https://github.com/user-attachments/assets/607f0fdd-af53-4dac-8f09-8a2f7b6dc0e6)
+![image](https://github.com/user-attachments/assets/1743e3c1-050a-44ae-8d77-6d65b9659f25)
+![image](https://github.com/user-attachments/assets/b502fab2-47d5-41e9-8874-a7e9c6b5a062)
+![image](https://github.com/user-attachments/assets/60e2cc27-5e82-4d62-a022-9ed84af9f01d)
+
 ## 2021 LẦN 2:
 ![image](https://github.com/user-attachments/assets/55bd8d50-ffb8-499b-a122-34101265405c)
 
