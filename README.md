@@ -193,7 +193,8 @@
   * Hệ phương trình hai ẩn đối xứng loại 2
   * Hệ phương trình đồng bậc/đẳng cấp. 
   * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
-* Hệ phương trình ba ẩn 
+* Hệ phương trình ba ẩn
+* Hệ phương trình chứa căn thức/vô tỉ
 * Hệ phương trình không mẫu mực
 * Bất phương trình và hệ bất phương trình
 * Quỹ tích (tập hợp điểm)
@@ -214,7 +215,7 @@
   * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
   * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
 * Các bài toán hình học có nội dung tính toán
-* Giải toán bằng cách lập phương trình, hệ phương trình
+* Giải toán bằng cách lập phương trình, hệ phương trình, hệ bất phương trình nghiệm nguyên/tự nhiên, sử dụng tính chia hết và phép chia có dư
 * 
 
 
