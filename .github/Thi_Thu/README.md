@@ -1,6 +1,10 @@
 
 # ĐỀ THỬ TOÁN KHÔNG CHUYÊN PTNK
 
+## 2022 LẦN 2:
+![image](https://github.com/user-attachments/assets/2219ecbd-f582-4b96-adaf-a727a2c06a3b)
+![image](https://github.com/user-attachments/assets/43bfb17f-d217-4dba-a95c-27dd106c7366)
+
 ## 2022 LẦN 1:
 ![image](https://github.com/user-attachments/assets/efc3e0ca-73a0-4ca3-8409-a86a2161cfe4)
 
