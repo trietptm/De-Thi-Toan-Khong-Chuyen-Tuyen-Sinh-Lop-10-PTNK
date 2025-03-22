@@ -187,6 +187,9 @@
   * Điều kiện có nghiệm của một phương trình bậc hai
   * Phương trình quy về phương trình bậc hai
 * Giải phương trình
+  * Phương trình tích
+  * Phương trình chứa căn thức/vô tỉ
+  * Ứng dụng bất đẳng thức trong giải phương trình không mẫu mực
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
   * Hệ phương trình hai ẩn đối xứng loại 1
