@@ -1,4 +1,9 @@
 
+## 2024 LẦN 2:
+![image](https://github.com/user-attachments/assets/4c41e03e-c251-4a0c-9d4f-6d04e24762ef)
+![image](https://github.com/user-attachments/assets/d430f6f9-90f4-4485-bf23-1134fc248088)
+
+
 ## 2024 LẦN 1:
 ![image](https://github.com/user-attachments/assets/687c491a-56ec-4b3a-a99c-59d681003ab0)
 ![image](https://github.com/user-attachments/assets/8218530b-abfa-4af0-9488-f8ab47f9e327)
