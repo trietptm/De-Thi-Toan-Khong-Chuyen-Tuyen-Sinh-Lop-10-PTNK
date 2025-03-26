@@ -1,4 +1,4 @@
-# ĐỀ THỬ TOÁN KHÔNG CHUYÊN PTNK
+# ĐỀ THI THỬ TOÁN KHÔNG CHUYÊN PTNK
 
 ## 2024 LẦN 2:
 ![image](https://github.com/user-attachments/assets/4c41e03e-c251-4a0c-9d4f-6d04e24762ef)
