@@ -3,6 +3,10 @@
 ![image](https://github.com/user-attachments/assets/4c41e03e-c251-4a0c-9d4f-6d04e24762ef)
 ![image](https://github.com/user-attachments/assets/d430f6f9-90f4-4485-bf23-1134fc248088)
 
+![image](https://github.com/user-attachments/assets/b3d85e9e-96c3-4854-95a0-c7fa6c1bf6e1)
+![image](https://github.com/user-attachments/assets/10c6cfb4-f6ad-490a-89d1-a58d7aea977e)
+![image](https://github.com/user-attachments/assets/0e29a140-c4d4-4688-b213-c2d2886c2e25)
+![image](https://github.com/user-attachments/assets/1fe9e761-af04-4895-9ab3-7cc3cdedf88a)
 
 ## 2024 LẦN 1:
 ![image](https://github.com/user-attachments/assets/687c491a-56ec-4b3a-a99c-59d681003ab0)
