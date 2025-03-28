@@ -163,6 +163,9 @@
 
 ![image](https://user-images.githubusercontent.com/526959/224281634-2e5685cf-d5c2-44d6-9f73-77ab8a932a94.png)
 
+## CẤU TRÚC ĐỀ THI TUYỂN SINH LỚP 10:
+
+
 ## ĐÔI NÉT VỀ ĐỀ THI TOÁN KHÔNG CHUYÊN TRONG ĐỀ TUYỂN SINH VÀO LỚP 10 CỦA TRƯỜNG PTNK
 * https://www.facebook.com/HSGVNUHCM/posts/pfbid037czvrBJXAMXKRou7jC4tm3P5icjmZdjHsbAGFaXPMd6EkeaNvFHGzg6FhUhN9yBzl
 ![image](https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK/assets/526959/2e68f78a-e6c0-4158-91be-5dc66fa1fe73)
