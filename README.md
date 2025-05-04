@@ -213,6 +213,7 @@
     * Tiếp tuyến và đường tròn
     * Phương tích
     * Đường thẳng Simson
+    * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty) và các kết quả liên quan
     * Đường thẳng đẳng giác (cặp đường đẳng giác), trục đối xứng và các kết quả liên quan
     * Tứ giác điều hòa, đường đối trung và các kết quả liên quan
   * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
