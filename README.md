@@ -206,9 +206,26 @@
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
   * Hình học tam giác, tứ giác
-    * Tam giác đồng dạng
+    * Tổng ba góc của một tam giác
+    * Hai tam giác bằng nhau (các trường hợp bằng nhau của tam giác)
+    * Tam giác cân, tam giác đều
+    * Tam giác đồng dạng (các trường hợp đồng dạng của tam giác)
+      * Tỉ số hai đường cao, tỉ số diện tích của hai tam giác đồng dạng
+      * Cặp tam giác đồng dạng và các đường/điểm tương ứng tạo các cặp tam giác đồng dạng mới (cặp tam giác tương ứng đồng dạng/đồng dạng tương ứng)
+    * Định lý Thales
+    * Tính chất đường phân giác của tam giác
     * Hệ thức lượng trong tam giác vuông
     * Tỉ số lượng giác
+    * Quan hệ giữa các yếu tố trong tam giác, các đường đồng quy trong tam giác
+      * Tính chất ba đường trung tuyến của tam giác, ba đường cao của tam giác, ba đường trung trực của tam giác, ba đường phân giác của tam giác
+    * Tứ giác
+      * Hình thang, hình thang cân
+      * Hình bình hành
+      * Hình chữ nhật
+      * Hình thoi
+      * Hình vuông
+    * Diện tích đa giác
+      * Diện tích tam giác, tứ giác
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
     * Phương tích
