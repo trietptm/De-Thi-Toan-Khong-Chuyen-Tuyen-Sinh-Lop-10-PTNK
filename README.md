@@ -6,6 +6,10 @@
 * Đáp án chính thức của trường PTNK: https://ptnk.edu.vn/tuyen-sinh-ptnk/de-thi-dap-an/
 
 ## 2025-2026:
+![image](https://github.com/user-attachments/assets/b52b7896-d05e-4ead-8717-16b2efbffe62)
+![image](https://github.com/user-attachments/assets/750d087f-4a02-4ae7-b52b-37849bddd8f4)
+
+## 2025-2026:
 ![image](https://github.com/user-attachments/assets/988a8953-196d-49da-bf3a-2a5ba9122833)
 ![image](https://github.com/user-attachments/assets/4c3b2844-8e4f-4b04-a7bb-ac119facbf76)
 
